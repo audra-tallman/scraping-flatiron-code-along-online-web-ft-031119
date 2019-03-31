@@ -17,6 +17,7 @@ class Scraper
   
     end 
     
+    def 
   
   
 Scraper.new.get_page
